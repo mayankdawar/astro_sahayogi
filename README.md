@@ -61,6 +61,7 @@ Installer helpers live under `build/installer/` (macOS DMG script, Windows Inno 
 ## Maintainer
 
 - **GitHub:** [mayankdawar](https://github.com/mayankdawar)
+- **Repository:** https://github.com/mayankdawar/astro_sahayogi
 - **Contact:** mayankdawar29@gmail.com
 
 ## License
