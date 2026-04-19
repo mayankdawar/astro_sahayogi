@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+ENV/
+.DS_Store
+
+# Local app data (do not commit)
+*.db
+kp_user_settings.json
+*_Master_Report.html
+
+# Editor / tooling
+.cursor/
+
+# Graphify local cache (regenerated on `graphify update`)
+graphify-out/cache/
