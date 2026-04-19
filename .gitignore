@@ -17,3 +17,7 @@ kp_user_settings.json
 
 # Graphify local cache (regenerated on `graphify update`)
 graphify-out/cache/
+
+# Nuitka / distribution build output
+dist/
+nuitka-crash-report.xml

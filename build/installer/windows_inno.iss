@@ -9,7 +9,8 @@ OutputDir=..\dist\installer
 OutputBaseFilename=AstroSahayogi_Setup_v1.0.0
 Compression=lzma2
 SolidCompression=yes
-SetupIconFile=..\..\astro_sahayogi\ui\theme\assets\icon.ico
+; Optional: add ui\theme\assets\icon.ico and uncomment next line for a custom installer icon
+; SetupIconFile=..\..\ui\theme\assets\icon.ico
 
 [Files]
 Source: "..\..\dist\main.exe"; DestDir: "{app}"; DestName: "AstroSahayogi.exe"; Flags: ignoreversion

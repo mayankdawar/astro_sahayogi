@@ -1,7 +1,7 @@
 # Graph Report - /Users/MayankDawar/astro_sahayogi  (2026-04-20)
 
 ## Corpus Check
-- 110 files · ~81,079 words
+- 110 files · ~82,144 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
